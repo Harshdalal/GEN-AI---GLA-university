@@ -4,7 +4,7 @@ all resource avaliable here for this Training
 
 google ai studio > https://aistudio.google.com/prompts/new_chat
 
-kaggle > https://www.kaggle.com/settings >> API key 
+gemini api key > https://aistudio.google.com/apikey
 
 ngrok > https://dashboard.ngrok.com/get-started/your-authtoken
 

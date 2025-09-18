@@ -35,8 +35,8 @@ Sentiment analysis for reviews.
 
 ```
 
-# 🔹 Step 2: Problem Definition & Dataset Selection (45 mins)
-
+# 🔹 Step 2: Problem Definition & Dataset Selection 
+```
 Clearly define the problem statement and scope.
 
 Identify target variable/output.
@@ -53,8 +53,10 @@ Number of samples & features
 
 Any limitations
 
-🔹 Step 3: Data Preprocessing & EDA (1 hour)
+```
 
+# 🔹 Step 3: Data Preprocessing & EDA 
+```
 Handle missing values, duplicates, and noise.
 
 Apply feature scaling/encoding if needed.
@@ -68,9 +70,9 @@ Data distribution (histograms, plots)
 Correlation heatmaps
 
 Split data into train, validation, and test sets.
-
-🔹 Step 4: Model Development (1.5 hours)
-
+```
+# 🔹 Step 4: Model Development 
+```
 Select suitable ML/DL models:
 
 ML: Decision Tree, Random Forest, SVM, XGBoost
@@ -88,9 +90,9 @@ Track performance using metrics:
 Classification → Accuracy, Precision, Recall, F1-score, ROC-AUC
 
 Regression → MSE, RMSE, MAE, R²
-
-🔹 Step 5: Model Evaluation & Optimization (1 hour)
-
+```
+# 🔹 Step 5: Model Evaluation & Optimization 
+```
 Compare different models and choose the best-performing one.
 
 Apply techniques like:
@@ -104,9 +106,9 @@ Cross-validation
 Early stopping
 
 Ensure the model is generalized (not overfitting/underfitting).
-
-🔹 Step 6: Deployment (45 mins)
-
+```
+# 🔹 Step 6: Deployment (45 mins)
+```
 Create a basic deployment pipeline:
 
 Option 1: Flask/FastAPI web service
@@ -116,9 +118,9 @@ Option 2: Streamlit/Gradio app for interactive demo
 Test model predictions on new/unseen data.
 
 Ensure usability & clarity in the deployed interface.
-
-🔹 Step 7: Final Presentation (30 mins)
-
+```
+# 🔹 Step 7: Final Presentation (30 mins)
+```
 Structure of presentation:
 
 Problem Statement & Motivation
@@ -142,3 +144,4 @@ Slides (with visuals & graphs)
 Live demo (if possible)
 
 Q&A session
+```

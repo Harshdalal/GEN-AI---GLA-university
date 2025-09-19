@@ -1,6 +1,6 @@
 # 🏆 Capstone Project Guidelines
 
-# Program Theme: Agentic AI & RAG Applications using Gemini API + ChromaDB/FAISS
+# Program Theme: Gen AI & RAG Applications using Gemini API + ChromaDB/FAISS
 
 # 1. Objective
 ```

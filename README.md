@@ -8,10 +8,6 @@ gemini api key > https://aistudio.google.com/apikey
 
 ngrok > https://dashboard.ngrok.com/get-started/your-authtoken
 
-Deep learning Playground > https://playground.tensorflow.org/
-
-CNN playground > https://deeplizard.com/resource/pavq7noze2
-
 # follow for More AI updates > https://www.instagram.com/reelgyaanai/
 
 Linkdin > https://www.linkedin.com/in/harsh-dalal-et/
